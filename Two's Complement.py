@@ -10,11 +10,7 @@ print(s)
 '''
 # 2nd step:
 
-# array er vitore 3rd maximum number ber kora.
-# array er vitore duplicate number count kora and count kora number output.
-# array er vitore 5 diye jeisob songkha nisese bivajjo hobe seigulo baad diye print.
-# function use kore calculator
-# Definition Function:
+
 
 # Function:
 '''
