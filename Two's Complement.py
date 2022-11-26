@@ -154,6 +154,8 @@ for i in range(len(one_list)):
 print(dictionary)
 
 '''
+// Two's complement number 
+
 for i in range(int(input())):
     def twos_comp(val, bits):
         """compute the 2's complement of int value val"""
