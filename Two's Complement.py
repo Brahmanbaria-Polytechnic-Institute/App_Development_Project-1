@@ -1,25 +1,4 @@
 
-
-
-# Data Type Check:
-
-'''
-a = 3.4
-b = 3
-c = "34445"
-d = [2,3]
-e = (2,4,5)
-f = {3,5,5}
-g = {"a":3,"b":4}
-print(type(a))
-print(type(b))
-print(type(c))
-print(type(d))
-print(type(e))
-print(type(f))
-print(type(g))
-'''
-
 # Even or Odd nirnoy.
 '''
 n = int(input()) # 13838883
