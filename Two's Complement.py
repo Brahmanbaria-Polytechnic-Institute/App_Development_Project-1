@@ -1,12 +1,4 @@
 
-
-# Today we are learning For Loop use ot python:
-# for loop statement:
-# namota:
-'''
-n = int(input("Enter your any namota number: ")) #10
-for i in range(1,11):
-    print("%d X %d = %d"%(n,i,n*i))
     
 '''
 
