@@ -1,9 +1,4 @@
 
-
-
-'''
-testcase = int(input()) #544845848488484848484848
-while 1<=testcase:
     print("even") if int(input())%2 == 0 else print("odd")
     testcase -= 1
 
