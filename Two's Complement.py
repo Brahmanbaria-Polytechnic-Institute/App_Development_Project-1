@@ -1,18 +1,6 @@
 
 
 
-# Function:
-'''
-def summation(a,b):
-    return a+b
-def minus(a,b):
-    return a-b
-x = 2
-y = 3
-print(summation(x,y))
-print(minus(x,y))
-
-'''
 
 # Problem name : Function use to add list sum one after one.
 '''
