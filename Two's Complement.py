@@ -1,19 +1,4 @@
 
-    
-'''
-
-
-'''arr = list(map(int,input().split()))
-print(arr)
-'''
-'''a,b,c = map(int,input().split())
-print(a,b,c)'''
-
-# Two list to one Dictionary
-
-'''
-one_list = [12,3,4]
-two_list = ["Mango","Orange","Banana"]
 dictionary = {}
 for i in range(len(one_list)):
     dictionary[two_list[i]] = one_list[i]
