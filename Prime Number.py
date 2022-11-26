@@ -1,14 +1,4 @@
 
-'''
-# Function Structure:
-def function_name(parameter):
-    return variable
-
-# Main Driver:
-# input
-# function call and parameter pass
-'''
-
 
 
 # Prime number:
