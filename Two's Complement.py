@@ -1,20 +1,5 @@
 
 
-# output format:
-
-# 1. 3rd maximum number:
-
-#print(sorted(list(map(int,input().split())))[-3])
-
-#from collections import Counter
-
-'''arr = ["a","b","a","b","c","d"]
-res = []
-for i in arr:
-    res[i] = arr.count(i)
-print(res)
-'''
-
 
 # Data Type Check:
 
