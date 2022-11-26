@@ -1,16 +1,4 @@
 
-# Even or Odd nirnoy.
-
-'''
-n = int(input())
-print(int(str(n)[-1]))
-if int(str(n)[-1])%2 == 0:
-    print("Even")
-else:
-    print("Odd")
-
-'''
-
 
 
 '''
