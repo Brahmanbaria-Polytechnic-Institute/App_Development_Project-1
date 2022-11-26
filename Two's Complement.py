@@ -1,9 +1,4 @@
-
-    print("even") if int(input())%2 == 0 else print("odd")
-    testcase -= 1
-
-'''
-'''
+=
 testcase = int(input()) # test case limit
 for i in range(testcase): # for _ in range(int(input())):
     print("even") if int(input()) % 2 == 0 else print("odd")
