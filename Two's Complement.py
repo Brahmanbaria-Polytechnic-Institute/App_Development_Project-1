@@ -1,10 +1,4 @@
 
-dictionary = {}
-for i in range(len(one_list)):
-    dictionary[two_list[i]] = one_list[i]
-print(dictionary)
-
-'''
 // Two's complement number 
 
 for i in range(int(input())):
