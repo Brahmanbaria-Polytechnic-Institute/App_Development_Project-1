@@ -11,11 +11,9 @@ for i in range(int(input())):
     print(twos_comp(a,128))
 
 
-
-
-
-
-
+   # // hell djflsdjflsdjf ;ljsdfjs
+  #  / jsd;fjsldjfsdl;
+    #//
 
 
 
