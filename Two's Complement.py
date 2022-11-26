@@ -2,22 +2,6 @@
 
 
 
-# Problem name : Function use to add list sum one after one.
-'''
-def one_after_one_sum(arr):
-    s = 0
-    for i in range(0,len(arr)+1,2):
-        s += arr[i]
-    return s
-t = int(input())
-for i in range(t): # online a testcase: for _ in range(int(input())):
-    n = int(input()) # 5
-    arr = list(map(int,input().split()))[:n] # 2 3 43 4 54 5 5
-    print("arr =",(arr))
-    print(one_after_one_sum(arr))
-
-'''
-
 
 '''
 # Function Structure:
