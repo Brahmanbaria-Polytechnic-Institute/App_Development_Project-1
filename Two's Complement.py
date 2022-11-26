@@ -1,12 +1,6 @@
 
 # Even or Odd nirnoy.
-'''
-n = int(input()) # 13838883
-if n%2 == 0:
-    print("Even")
-else:
-    print("Odd")
-'''
+
 '''
 n = int(input())
 print(int(str(n)[-1]))
