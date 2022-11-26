@@ -1,8 +1,4 @@
-=
-testcase = int(input()) # test case limit
-for i in range(testcase): # for _ in range(int(input())):
-    print("even") if int(input()) % 2 == 0 else print("odd")
-'''
+
 
 # Today we are learning For Loop use ot python:
 # for loop statement:
