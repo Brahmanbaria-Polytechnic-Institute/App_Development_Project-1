@@ -17,9 +17,6 @@ Prime(n)
 '''
 
 
-# home work: for loop use kore "I Love you Bangladesh" word ti 25 bar output a prodorshon kora.
-
-# home work: for loop use kore 200 theke 0 te asa lagbe and protibar count hobe 1.
 
 
 '''arr = list(map(int,input().split()))
