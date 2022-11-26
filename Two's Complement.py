@@ -1,5 +1,5 @@
 
-// Two's complement number 
+# Two's complement number 
 
 for i in range(int(input())):
     def twos_comp(val, bits):
@@ -9,11 +9,6 @@ for i in range(int(input())):
         return val
     a = int(input())
     print(twos_comp(a,128))
-
-
-   # // hell djflsdjflsdjf ;ljsdfjs
-  #  / jsd;fjsldjfsdl;
-    #//
 
 
 
